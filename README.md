@@ -7,10 +7,13 @@
 💭 Currently learning about data analytics
 🕺🏿A rizzy beta trying to find Skiibidi treasure in the intricate realm of Ohio Ligma 🕺🏿
 
+
 # 💻 Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+
 ### HOBBY: 🎵 💤
+
 
 ### 📺 Favourite Song in Youtube Videos
 
