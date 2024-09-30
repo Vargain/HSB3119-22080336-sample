@@ -1,8 +1,13 @@
 # 🏄‍♂️ Noira 👋
 
 **`Student`**
-
+🧑🏿‍💻 A Ohio Student studies Management & Security in HSB-VNU
+💭 Currently learning about data analytics
 🕺🏿A rizzy beta trying to find Skiibidi treasure in the intricate realm of Ohio Ligma 🕺🏿
+
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### HOBBY: 🎵 💤
 
