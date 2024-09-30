@@ -1,6 +1,8 @@
 # 🏄‍♂️ Noira 👋
 
 **`Student`**
+
+# 👋 Hi, It's me, MARIO
 🧑🏿‍💻 A Ohio Student studies Management & Security in HSB-VNU
 💭 Currently learning about data analytics
 🕺🏿A rizzy beta trying to find Skiibidi treasure in the intricate realm of Ohio Ligma 🕺🏿
