@@ -3,7 +3,7 @@
 **`Student`**
 
 # 👋 Hi, It's me, MARIO
-🧑🏿‍💻 A Ohio Student studies Management & Security in HSB-VNU  
+🧑🏿‍💻 A Vietnnamese Student studies Management & Security (MAS2) in HSB-VNU  
 
 💭 Currently learning about data analytics  
 
