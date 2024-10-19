@@ -14,6 +14,15 @@
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
 
+| **Members** | Code |
+| --- | --- |
+| Phạm Xuân Hưng | `22080317` |
+| Vũ Tiến Phúc | `22080336` |
+| Trần Kim Quang Minh | `22080329` |
+| Nguyễn Văn Ngọc Sơn | `22080341` |
+| Lương Việt Hoàng | `22080313` |
+
+
 # 💻 Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
