@@ -4,27 +4,27 @@
 
 **Quotation From Vendors**
 
-| **Hạng Mục**                        | **Sản phẩm/Dịch vụ**                                                                                                                             | **Vendor (Ví dụ)** | **Số Lượng** | **Đơn giá (VND)** | **Tổng (VND)**      |
-| :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------- | :-----------: | ---------------: | ---------------: |
-| **Phần cứng**                       | Máy in mã vạch TSC TTP-244 Pro                                                                                                                    | TSC/Zebra/Godex  |       1       |     3.900.000   |     3.900.000   |
-| **Phần mềm quản lý**                 | Hệ thống ERP (quản lý nhà cung cấp, lịch sử giao dịch,...)                                                                                                | SAP/KiotViet/Odoo  |       1       |   11.000.000   |    11.000.000   |
-|                                      | Ứng dụng quản lý nguyên liệu, theo dõi lô hàng và thông báo thời gian thực.                                                                              |   (Tùy chọn)    |       1       |    15.000.000   |    15.000.000   |
-|                                      | Hệ thống KiotViet                                                                                                                      | KiotViet|       1       |   5.000.000   |   5.000.000    |
-| **Hệ thống hiển thị bếp (KDS)**     | Hệ thống KDS (phần cứng & phần mềm)                                                                                                                | Oracle/Square/Lightspeed |       1       |    13.330.000   |    13.330.000   |
-| **Thiết bị POS**                     | Máy POS Sunmi V2 Pro                                                                                                                              | Sunmi           |       1       |     6.500.000   |     6.500.000   |
-| **Phần mềm POS**                     | Phần mềm Sapo POS (Omnichannel package)                                                                                                           | Sapo            |       1       |    15.000.000   |    15.000.000   |
-| **Phụ kiện POS**                      | Phụ kiện POS                                                                                                                                 | (Tùy chọn)            |       1       |    500.000   |    500.000   |
-| **Nền tảng khảo sát**                 | Gói GetFeedback Basic                                                                                                                          | GetFeedback     |       1       |     2.500.000   |     2.500.000   |
-| **Mã QR động**                     | Mã QR động thương hiệu                                                                                                                            |  (Tùy chọn)           |       1       |     500.000   |     500.000   |
-| **Dịch vụ tư vấn & thiết lập**      | Thiết lập và tùy chỉnh phần mềm, mã QR, in ấn, đào tạo nhân viên                                                                                       | Freelancer/Local IT Firms/Providers  |       1      |    6.270.000   |    6.270.000   |
-| **Tổng Cộng**                     |                                                                                                                                                   |                  |               |                 |  **80.000.000**   |
+| **Item**                        | **Product/Service**                                                                                                                                    | **Vendor (Example)** | **Quantity** | **Unit Price (VND)** | **Total (VND)**      |
+| :------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------- | :-----------: | -----------------: | -----------------: |
+| **Hardware**                     | TSC TTP-244 Pro Barcode Printer                                                                                                                        | TSC/Zebra/Godex      |       1       |       3,900,000   |        3,900,000   |
+| **Management Software**          | ERP System (Supplier Management, Transaction History, etc.)                                                                                          | SAP/KiotViet/Odoo    |       1       |      11,000,000   |       11,000,000   |
+|                                   | Ingredient Management App (Real-time notifications, lot tracking)                                                                                      |      KiotViet       |       1       |      15,000,000   |       15,000,000   |
+|                                 | KiotViet System                                                                                                                                        | KiotViet |     1     |     5,000,000 |     5,000,000    |
+| **Kitchen Display System (KDS)** | KDS System (Hardware & Software)                                                                                                                       | Oracle/Square/Lightspeed |       1       |      13,330,000   |       13,330,000   |
+| **POS Device**                    | Sunmi V2 Pro POS Machine                                                                                                                              | Sunmi                 |       1       |       6,500,000   |        6,500,000   |
+| **POS Software**                  | Sapo POS Software (Omnichannel package)                                                                                                                  | Sapo                  |       1       |      15,000,000   |       15,000,000   |
+| **POS Accessories**                | POS Accessories                                                                                                                                        | (Optional)       |       1       |        500,000   |         500,000   |
+| **Survey Platform**               | GetFeedback Basic Package                                                                                                                            | GetFeedback           |       1       |       2,500,000   |        2,500,000   |
+| **Dynamic QR Code**              | Branded Dynamic QR Code                                                                                                                                |  (Optional)   |       1       |        500,000   |         500,000   |
+| **Consulting & Setup Services**    | Software setup & customization, QR code setup, printing, staff training                                                                                    | Freelancer/Local IT Firms/Providers  |       1      |        6,270,000   |       6,270,000   |
+| **Total**                        |                                                                                                                                                       |                     |               |                 |   **80,000,000**    |
 
-**Lưu ý:**
+**Notes:**
 
-*   **Vendor:** Các nhà cung cấp trong bảng này chỉ là ví dụ. Bạn có thể thay thế bằng các nhà cung cấp thực tế mà bạn đã liên hệ hoặc có kế hoạch hợp tác.
-*   **Đơn giá:** Đơn giá có thể thay đổi tùy thuộc vào từng nhà cung cấp, các gói dịch vụ cụ thể, và các thỏa thuận thương mại.
-*   **Phần mềm tùy chọn:** Một số phần mềm như ứng dụng quản lý nguyên liệu hoặc phụ kiện POS có thể là tùy chọn và không bắt buộc, tùy thuộc vào nhu cầu cụ thể của bạn.
-*   **Tổng cộng:** Tổng cộng ước tính là 80.000.000 VND, dựa trên ngân sách dự kiến được đề cập trong file PDF.
+*   **Vendor:** The vendors listed are examples. You should replace them with the actual vendors you have contacted or plan to partner with.
+*   **Unit Price:** Prices may vary depending on the specific vendor, package, and commercial agreements.
+*   **Optional Software:** Some software, like the ingredient management app or POS accessories, is optional and depends on your specific needs.
+*  **Total:** The total is estimated at 80,000,000 VND based on the project budget outlined in the original PDF.
 
 
 
