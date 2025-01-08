@@ -16,9 +16,9 @@
 | **POS Accessories**                | POS Accessories                                                                                                                                        | Sunmi/Sapo/AnyPOS	       |       1       |        500,000   |         500,000   |
 | **Survey Platform**               | GetFeedback Basic Package                                                                                                                            | GetFeedback           |       1       |       1,260,000   |        1,260,000   |
 | **Dynamic QR Code**              | Branded Dynamic QR Code                                                                                                                                |  QRCode Monkey/QRStuff   |       1       |        500,000   |         500,000   |
-| **Marketing**    | Facebook's page of the restaurant                                                                                    | Freelancer/Local IT Firms/Providers  |       1      |        4,010,000   |       4,010,000   |
+| **Marketing**    | Facebook's page of the restaurant                                                                                    | Staff Restaurant  |       1      |        4,010,000   |       4,010,000   |
 | **Consulting & Setup Services**    | Software setup & customization, QR code setup, printing, staff training                                                                                    | Freelancer/Local IT Firms/Providers  |       1      |        4,010,000   |       4,010,000   |
-
+| **Cost Incurred**    |                                                                                   |   |             |        5,000,000   |       5,000,000   |
 | **Total**                        |                                                                                                                                                       |                     |               |                 |   **80,000,000**    |
 
 **Notes:**
